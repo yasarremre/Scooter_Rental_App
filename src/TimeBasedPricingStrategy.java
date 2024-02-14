@@ -1,6 +1,5 @@
 /**
- * Authors
- * Deniz Mutlu 20200808042
+ * Author
  * Emre Yasar 20210808602
  */
 
